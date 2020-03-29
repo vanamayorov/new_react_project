@@ -25,7 +25,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://vanamayorov.github.io/react_project",
+  "homepage": "https://vanamayorov.github.io/new_react_project",
   "browserslist": [
     ">0.2%",
     "not dead",
