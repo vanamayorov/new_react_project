@@ -1,4 +1,4 @@
-URL : https://vanamayorov.github.io/react_new_project
+URL : https://vanamayorov.github.io/new_react_project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
